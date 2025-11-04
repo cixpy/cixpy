@@ -10,8 +10,16 @@
 
 ## About
 
-```javascript
-const developer = {
+```typescript
+interface DeveloperProfile {
+    name: string;
+    role: string;
+    location: string;
+    languages: string[];
+    status: string;
+}
+
+const developer: DeveloperProfile = {
     name: "Cix",
     role: "Full Stack Developer",
     location: "Brazil",
