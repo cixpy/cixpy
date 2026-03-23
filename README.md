@@ -67,9 +67,9 @@ const developer: DeveloperProfile = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cixayah&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cixpy&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2"/>
 <br>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixpy&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"/>
 
 
 </div>
@@ -80,7 +80,7 @@ const developer: DeveloperProfile = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cixayah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cixpy)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/devcix)
 
 </div>
