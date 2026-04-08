@@ -28,9 +28,10 @@
 
 [root@devcix ~]$ monitor-performance --all
 [root@devcix ~]$ connect --networks
-[root@devcix ~]$ echo "Code is poetry in motion"
+[root@devcix ~]$ play-music --track "Sunflower"
 [root@devcix ~]$ logout _
 ```
-
+ [Post Malone, Swae Lee - Sunflower ](https://youtu.be/cKMQz1Rf2ow?list=RDcKMQz1Rf2ow)
+<div align="right">
   <img height=327 src="https://art.ngfiles.com/images/745000/745610_sonicboy112_miles-morales.gif?f1545200058">
-
+</div>
