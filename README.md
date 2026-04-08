@@ -31,9 +31,7 @@
 [root@devcix ~]$ play-music --track "Sunflower"
 [root@devcix ~]$ logout _
 ```
- <a href="https://youtu.be/cKMQz1Rf2ow?list=RDcKMQz1Rf2ow" target="_blank">
-  <img src="https://img.shields.io/badge/▶_PLAY_NOW-Post%20Malone%2C%20Swae%20Lee%20--%20Sunflower-f9d71c?style=for-the-badge&logo=youtube&logoColor=black">
-</a>
+[![▶ PLAY NOW - Post Malone, Swae Lee -- Sunflower](https://img.shields.io/badge/▶_PLAY_NOW-Post%20Malone%2C%20Swae%20Lee%20--%20Sunflower-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/cKMQz1Rf2ow?list=RDcKMQz1Rf2ow)
 <div align="right">
   <img height=327 src="https://art.ngfiles.com/images/745000/745610_sonicboy112_miles-morales.gif?f1545200058">
 </div>
