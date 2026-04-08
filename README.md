@@ -31,4 +31,5 @@
 [root@devcix ~]$ echo "Code is poetry in motion"
 [root@devcix ~]$ logout _
 ```
-<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmI5cTZ6cXppdDRoanBjcGRqOTlkeXA5YXR3ZW10ejdobThmbXIyNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9HaR3xaCfIMvIRJFxI/source.gif" width="150px">
+
+  <img height=327 src="https://art.ngfiles.com/images/745000/745610_sonicboy112_miles-morales.gif?f1545200058">
